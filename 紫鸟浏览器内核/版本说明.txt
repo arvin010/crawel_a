@@ -1,0 +1,4 @@
+getBrowserEnvInfo我们不维护了，很老的接口了，现在都是用startBrowser，
+startBrowser之后我们软件会先启动浏览器窗口，然后返回调试端口，通过以上代码可以直接连接Webdriver控制该窗口
+
+我们的5.200以上版本驱动是100内核的，其他是87内核
