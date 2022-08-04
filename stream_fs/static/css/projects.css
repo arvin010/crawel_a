@@ -1,0 +1,240 @@
+body{
+    background-color: #e8e8e8  !important;
+    color:white !important;
+}
+.card{
+    background-color: #e8e8e8 ;
+    /*color: #B3B1AE;*/
+    width: 900px;
+    margin: 0 auto;
+}
+.search .form-control{
+    background-color: #5a5a5a !important;
+    border: 1px solid #000 !important;
+    color:rgb(230, 154, 13) !important;
+}
+.navbar {
+    background-color: #343a40 !important;
+}
+.main-footer{
+    background:#343a40;
+}
+.btn-inx{
+    background-color: #303132;
+    color:#fff;
+    border: none;
+}
+.bsselect{
+    display :inline;
+}
+.search{
+    margin-bottom:20px;
+}
+.table tr td{
+    border:1px solid #484848;
+    padding: 12px;
+}
+.table tr th{
+    border:1px solid #484848;
+    
+}
+.table tr td li{
+    height: 70px !important;
+    width: 100px !important;
+    overflow: hidden;
+    
+}
+.table{
+    border:1px solid gray;
+    text-align: center;
+    line-height: inherit;
+}
+.main-header {
+    border-bottom: 1px solid #717171;
+}
+.main-footer {
+    border-top: 1px solid #717171;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+.nav-link:hover {
+    color: #8a8a8ab3 !important;
+}
+.dropdown-menu .form-control{
+    background-color: #fff !important;
+    border: 1px solid rgb(113, 201, 117) !important;
+}
+
+.b-select{
+      /* background-color: #303132; */
+  } 
+  .btn-select {
+    color: #fff !important;
+    background-color: #424242 !important;
+    border-color: #000000;
+    box-shadow: none;
+}
+.form-group{
+    width:250px;
+    display: inline-block;
+}
+.daterangepicker .calendar-table {
+    border: 1px solid #000000;
+    background-color: #8c8c8c;
+}
+.daterangepicker td.in-range {
+    background-color: #715c4a;
+    color: #000;
+}
+.drp-selected {
+    color:#000000;
+}
+#pageToolbar{
+    margin-top: 10px;
+}
+.search{
+    margin: auto;
+    margin-bottom: 10px ;
+}
+.project{
+    text-align: center;
+    line-height: inherit;
+}
+.itype{
+    color: rgb(232, 13, 13);
+}
+.iresult{
+    color: rgb(18, 212, 77);
+}
+.iresult a{
+    color: rgb(11, 204, 156);
+}
+
+.exexecute,.downmudel{
+    margin-left: -15px;
+}
+.textname{
+    display: inline-block;
+    background-color: #666;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: -15px;
+}
+/*.selectfile , .exexecute{
+    display: none;
+}*/
+.sizetext ,.fileprocess{
+	display: inline-block !important;
+}
+#FileUploadSelf{
+    display: none;
+}
+.fileupload ,.fileprocessbox{
+    display: none;
+    margin-right: 10px;
+
+}
+#pageTool{
+    display: none;
+}
+.Coperate a{
+    height: 31px;
+    width: 65px;
+}
+.showcontent{
+    text-indent: 50px;
+    height: auto; 
+    font-size: 0.9rem; 
+    padding: 0.5rem; 
+    line-height: 1rem; 
+    text-indent: 0px;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+.showcontent table{
+    border: 1px solid #5b4d4d;
+    width:100%;
+    height:100%;
+}
+.showcontent table tr{
+}
+.showcontent table tr td{
+    height: 25px;
+}
+.showcontent table td{
+    padding-right: 20px;
+    padding-bottom: 5px;
+}
+.showbtn{
+    margin: 0 auto; 
+    line-height: 1.5rem; 
+    text-align: center;
+    display:block;
+}
+#showdiv{
+    width: 60%;
+    margin: 0 auto;
+    height: 50rem;
+    border: 1px solid #5b4d4d;
+    display: none;
+    position: fixed;
+    top: 6%;
+    left: 30%;
+    z-index: 3;
+    background: rgba(53, 62, 70, 0.7);;
+}
+.showtitle{
+    background: rgba(53, 62, 70, 0.76);
+    width: 100%;
+    height: 2rem;
+    font-size: 0.95rem;
+    line-height: 2rem;
+    border: 1px solid #7b7070;
+    text-align: center
+}
+#cover{
+    background: #000;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    filter: alpha(opacity=30);
+    opacity: 0.3;
+    display: none;
+    z-index: 2
+}
+.content,.content-header{
+    text-align: center;
+}
+.f h1{
+    margin: 0 auto;
+    width: 300px;
+    color: #2f1313;
+}
+.signout{
+    float: right;
+    margin: 10px;
+    margin-right: 26px;
+}
+
+table tr:nth-child(odd)
+{
+background: #d7d7da;
+}
+table tr:nth-child(even)
+{
+/*background: #c1c1c1;*/
+}
+
+.t tr td{
+    font-size: 0.85em;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    color: black;
+}
+
+

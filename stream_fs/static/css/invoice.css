@@ -1,0 +1,52 @@
+.invoice{
+    /*background-color: #303132 !important;*/
+    position: relative;
+}
+.table tr td{
+    border:1px solid #484848;
+    padding: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+.model{
+    z-index: 100;
+    width:900px;
+    height:500px;
+    background-color: #3e3e3e;
+    float: left;
+    position: absolute;
+    left: 20%;
+    padding: 15px;
+    display:none;
+}
+.modelHead{
+    width:900px;
+}
+.modelTitle{
+    margin-left: 18px;
+    margin-top: 5px;
+}
+.invoice .form-control{
+    background-color: #424242 !important;
+    border: 1px solid #000 !important;
+    color:#fff;
+}
+.invoice .save {
+    display: none ;
+}
+.Coperate{
+    text-align: left !important;
+    width:80% !important;
+    height:auto !important;
+    overflow:hidden !important;
+}
+.Operations a{
+    height: 31px !important;
+    width: 65px !important;
+}
+.Ccontent{
+    text-align: left !important;
+}
+.Operations{
+    text-align: left !important;
+}

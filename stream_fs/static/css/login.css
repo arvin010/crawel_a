@@ -1,0 +1,22 @@
+.form-control:focus{
+    color:#000 !important;
+}
+.card-body  .form-control {
+    border: 1px solid #a0a0a0  !important;
+}
+.input-group label {
+    width: 70px;
+    line-height: 30px;
+    color: #000;
+    text-align: right;
+    margin-right: 5px;
+}
+
+.login-card-body{
+    width: 400px;
+    background: #fff !important;
+}
+#remember{
+    margin-left: 25px;
+    margin-top: 5px;
+}

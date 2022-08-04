@@ -1,0 +1,121 @@
+body{
+    background-color: #e8e8e8  !important;
+    color:white !important;
+}
+.card-body,.card-header {
+    background-color: #e8e8e8 !important;
+    color: #e0dfdc;
+    border-radius: 15px;
+    width: 900px;
+}
+
+.card-body .form-control{
+    background-color: #e8e8e8  !important;
+    border: 1px solid #000 !important;
+    color:#000 !important;
+}
+.bootstrap-select>.dropdown-toggle.bs-placeholder, .bootstrap-select>.dropdown-toggle.bs-placeholder:active, .bootstrap-select>.dropdown-toggle.bs-placeholder:focus, .bootstrap-select>.dropdown-toggle.bs-placeholder:hover {
+    color: #000 !important;
+    background-color: #e8e8e8 ;
+    border: 1px solid #000;
+}
+.dropdown-menu .form-control{
+    background-color: #fff !important;
+    border: 1px solid rgb(113, 201, 117) !important;
+    color: #000 !important;
+}
+.search .form-control{
+    background-color: #5a5a5a !important;
+    border: 1px solid #000 !important;
+    color:rgb(223, 146, 3) !important;
+}
+label {
+    font-weight:100 !important;
+}
+.nav-link:hover {
+    color: #8a8a8ab3 !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+.navbar {
+    background-color: #e8e8e8  !important;
+}
+.main-footer{
+    background:#e8e8e8 ;
+}
+.btn-inx{
+    /*background-color: #303132;*/
+    color:#fff;
+    border: none;
+}
+.search{
+    margin-bottom:20px;
+}
+.table tr td{
+    border:1px solid #484848;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.t tr td{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+td {
+    display:flex;
+    justify-content:space-between;
+}
+.table tr th{
+    border:1px solid #484848;
+}
+.table,.t{
+    table-layout: fixed;
+    width:870px;
+}
+.main-header {
+    border-bottom: 1px solid #717171;
+}
+.main-footer {
+    border-top: 1px solid #717171;
+}
+.model{
+    z-index: 100;
+    width:900px;
+    height:500px;
+    background-color: #3e3e3e;
+    float: left;
+    position: absolute;
+    left: 20%;
+    padding: 15px;
+    display:none;
+}
+.modelHead{
+    width:900px;
+}
+.modelTitle{
+    margin-left: 18px;
+    margin-top: 5px;
+}
+#dir{
+    color: #6610f2 ;
+}
+#diri{
+    width:100px;
+}
+.dir{
+    line-height: 30px;
+    float: right;
+    display: none;
+}
+.upfile{
+    float:left;
+    margin-left:5px;
+    color:white;
+    display: none;
+}
+
+a:hover {
+    color: #FF0000 !important;
+    text-decoration: underline !important;}

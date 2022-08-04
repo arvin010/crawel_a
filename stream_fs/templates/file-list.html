@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>大数据平台文件系统</title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- ico image -->
+    <link rel="stylesheet" rel="Shortcut Icon" href="{{static_url('dist/img/a.ico')}}" type="image/x-icon">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" type="text/css" href="{{static_url('plugins/fontawesome-free/css/all.min.css')}}">
+    <!--  daterangepicker-->
+    <!-- overlayScrollbars -->
+    <link rel="stylesheet" type="text/css" href="{{static_url('dist/css/adminlte.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{static_url('css/projects.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{static_url('css/bootstrap.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{static_url('css/webuploader.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{static_url('css/uploadself.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{static_url('css/base.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{static_url('css/loading.css')}}">
+
+</head>
+<!-- Content Wrapper. Contains page content -->
+<div class="">
+                    <div class="signout"><a class='btn btn-outline-secondary btn-sm' style='color: black !important' onclick="signout(this)">注销</a></div>
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="">
+                <div class="f">
+                    <h1>大数据平台文件系统</h1>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+
+        <!-- Default box -->
+        <div class="card">
+            <div class="card-body p-0">
+                <div class="">
+                    <div class='dir' style=""><input id='diri' style="" type="text" name="dir" placeholder="请输入"></div>
+                    <div style="float: right;color:white;" onclick="createdir()" class='selectfile' >新建目录</div>
+          <!--           <div style="float: right;margin-right: -91px;margin-top: 15px;  color:#28a745;"><a class='btn btn-Link selectfile' onclick="selectfile()">上传文件</a></div> -->
+                    <div style="margin:0px;">
+                        <div id="picker" style="float:left;" >上传文件</div>
+                        <div style="" class=' upfile' >上  传</div>
+                        <div id="progress" class="progress" style="width:200px;float:left;margin:10px 0 0 20px;">
+                            <div class="progress-bar progress-bar-striped active" role="progressbar" style="width:0%;"></div>
+                        </div>
+                        <div class='filename'></div>
+                        <div style="clear:both;"></div>
+                    </div>
+                    <div class="col-sm-6 bsselect fileupload"></div>
+                    <ol class="breadcrumb d" style="border-radius: 5px;with:885px !important; overflow: hidden;">
+                        <li class="breadcrumb-item r" style="display: flex;"><a href="#" s></a></li>
+                    </ol>
+                </div>
+                <table class="t" style="margin-left: 20px;margin-bottom: 20px; overflow: hidden;">
+                    {% for item in result %}
+                    <tr id='col' style="display: block;text-align: center;">
+                        <td class="filen">
+                            <div></div><a  href="#" onclick="getfile(this)"> {{item}} </a></td></td>
+                    </tr>
+                    {% end %}
+                    <tr id="table-row" style="display: none;">
+
+                        <td class="filen" style="">
+                            <span class="badge badge-success">NUll</span>
+                        </td>
+
+                    </tr>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+
+    </section>
+    <!-- /.content -->
+</div>
+<!-- /.content-wrapper -->
+
+
+<!-- Control Sidebar -->
+<aside class="control-sidebar control-sidebar-dark">
+    <!-- Control sidebar content goes here -->
+</aside>
+<!-- /.control-sidebar -->
+</div>
+<!-- ./wrapper -->
+
+<!-- jQuery -->
+<script src="{{static_url('plugins/jquery/jquery.min.js')}}"></script>
+<!-- Bootstrap 4 -->
+<script src="{{static_url('plugins/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+
+<!-- AdminLTE App -->
+<script src="{{static_url('dist/js/adminlte.min.js')}}"></script>
+
+<!-- AdminLTE for demo purposes -->
+<script src="{{static_url('dist/js/demo.js')}}"></script>
+<script src="{{static_url('build/js/paging/query.js')}}"></script>
+<!-- date-range-picker -->
+<script src="{{static_url('plugins/moment/moment.min.js')}}"></script>
+<script src="{{static_url('build/js/base.js')}}"></script>
+<script src="{{static_url('build/js/jquery-1.11.1.min.js')}}"></script>
+<script src="{{static_url('build/js/bootstrap.min.js')}}"></script>
+<script src="{{static_url('build/js/webuploader.min.js')}}"></script>
+<script src="{{static_url('js/file-list.js')}}"></script>
+<script src="{{static_url('build/js/loading.js')}}"></script>
+</body>
+</html>
+
