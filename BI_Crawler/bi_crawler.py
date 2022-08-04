@@ -3,11 +3,17 @@ import logging
 import subprocess
 from socket import *
 import time
+import datetime
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-
+from selenium.webdriver.support.select import Select
 from common.utility import Utility
+from selenium.webdriver.common.keys import Keys
+from pykeyboard import PyKeyboard
+from pymouse import *
+m = PyMouse()
+kb=PyKeyboard()
 # from common.mapping import Mapping
 
 from selenium.webdriver import ActionChains
@@ -180,7 +186,7 @@ class SuperBrowser(object):
         logger.info("启动店铺信息: %s" % shop_obj)
         return shop_obj
 
-    def greg(self,browserOauth=None):
+    def crawler(self,browserOauth=None):
         data = self.start_browser(browserOauth=browserOauth)
         # data = self.getBrowserEnvInfo()
         logger.info(data)
@@ -199,12 +205,20 @@ class SuperBrowser(object):
         executable_path = r"C:/Users/Administrator/Desktop/worker/紫鸟浏览器内核/chromedriver87.exe"
         s=Service(executable_path=self.config.get("executable_path"))
         driver = webdriver.Chrome( options=options,service=s)
+        # driver.implicitly_wait(30)
         driver.get("https://sellercentral.amazon.com")
         try:
+            time.sleep(2)
             driver.find_element(by=By.XPATH,
                                 value='//*[@class="text align-end color-white font-size-default ember font-normal"]//a').click()
             time.sleep(1)
         except:
+            pass   #//*[@id="ap-account-switcher-container"]/div[1]/div/div/div[2]/div[1]/div[2]/a/div/div/div/div/div[2]/div/div/div[1]/div[1]
+        try:
+            driver.find_element(by=By.XPATH,
+                                value='//*[@id="ap-account-switcher-container"]/div[1]/div/div/div[2]/div[1]/div[2]/a/div/div/div').click()
+            time.sleep(1)
+        except Exception as err:
             pass
         try:
             driver.find_element(by=By.ID, value="signInSubmit").click()
@@ -215,19 +229,102 @@ class SuperBrowser(object):
                 driver.find_element(by=By.ID, value="signInSubmit").click()
             except:
                 pass
+        try:
+            driver.find_element(by=By.XPATH, value='//*[@id="signInSubmit"]').click()
+        except :
+            pass
         time.sleep(1)
         # text = driver.find_element(by=By.XPATH,
                                 #    value='//div[@class="css-93gqc1"][4]//span[@class="css-kws921 e1i7w3tc50"]').text
-        driver.find_element(by=By.XPATH ,value="/html/body/div[1]/div[2]/div[1]/div/div/div[1]/kat-box/div/div[3]/div/div[2]/div/div[3]/div/div[3]/button/div/div").click()
-        driver.find_element(by=By.XPATH ,value='//*[@id="picker-container"]/div/div[3]/div/button').click()
+        try:
+            driver.find_element(by=By.XPATH ,value='//*[@id="picker-container"]/div/div[2]/div/div[3]/div/div[3]/button/div/div').click()
+        except Exception as err:
+            pass
+        try:
+            driver.find_element(by=By.XPATH ,value='//*[@id="picker-container"]/div/div[3]/div/button').click()
+        except Exception as err:
+            pass
+        return driver
+
+    def select_country(self,driver,country=None,date=None):
+        country_dict={"MX":"A1AM78C64UM0Y8","CA":"A2EUQ1WTGCTBG2","US":"ATVPDKIKX0DER","BR":"A2Q3Y263D00KWC"}
+        # driver.find_element(by=By.XPATH ,value=f'//*[@id="{country_dict[country]}"]').click()  #select country
+        driver.find_element(by=By.XPATH ,value='//*[@id="partner-switcher"]/button').click()  #select country
+        time.sleep(0.5)
+        driver.find_element(by=By.XPATH ,value=f'//*[@id="{country_dict[country]}"]').click()  #select country
+        return driver
+
+    def get_report(self,driver,report_type=None,country=None,date=None):
+        """
         driver.find_element(by=By.XPATH ,value='//*[@id="KpiCardList"]/div/div[1]/div/div[4]/casino-knowhere-layer/div/button/div/div/div[2]').click()
-        text=driver.find_element(by=By.XPATH,value='//*[@id="KpiCardList"]/div/div[1]/div/div[4]/casino-knowhere-layer/div/div/div/div[3]/div/div[2]').text
-        print("店铺总余额:" + text)
-        driver.find_element(by=By.XPATH, value='//div[@class="css-93gqc1"][4]//*[@data-testid="KpiCardButton"]').click()
-        spanlist = driver.find_elements(by=By.XPATH, value='//div[@class="css-1entqxh e1i7w3tc67"]//span[@class="css-in3yi3 e1i7w3tc45"]')
-        alist = driver.find_elements(by=By.XPATH, value='//div[@class="css-1entqxh e1i7w3tc67"]//a[@data-testid="Link"]')
-        for index, value in enumerate(spanlist):
-            print(value.text + alist[index].text)
+        e_list=driver.find_elements(by=By.XPATH,value='//*[@id="KpiCardList"]/div/div[1]/div/div[4]/casino-knowhere-layer/div/div/div/div[3]/div/div[2]/div')
+        print(e_list)
+        for el in e_list:
+            print("店铺总余额:" + el.find_element_by_css_selector('a.title').text)
+            print(">"*10)
+        """
+        # driver.switch_to.frame(driver.find_element_by_id('sc-navtab-reports-t2'))
+        # select_elm = Select(driver.find_element_by_class_name('sc-menu-trigger sc-tab-a'))
+
+        time.sleep(0.5)
+        driver.find_element(by=By.XPATH ,value='//*[@id="sc-navtab-reports-t2"]/a').click()  #//*[@id="sc-navtab-reports-t2"]/a  //*[@id="sc-navtab-reports-t2"]/a
+        # select_ele = Select(ele)
+        # select_ele.select_by_index(1).click()
+        time.sleep(0.5)
+        driver.find_element(by=By.XPATH ,value='//*[@id="sc-navtab-reports-t2"]/ul/li[2]/a').click()  #//*[@id="sc-navtab-reports-t2"]/ul/li[2]/a  
+
+        # gen reports
+        time.sleep(0.5)
+        if report_type=="日期范围报告":
+                                                    
+            # driver.find_element(by=By.CSS_SELECTOR("kat-tab[tab-id='DATE_RANGE_REPORTS']")).click()  # 日期范围报告
+            try:
+                driver.find_element(by=By.XPATH ,value='//*[@id="root"]/div/div[1]/article/section[2]/div/kat-tabs/kat-tab[6]/span').click()  # 日期范围报告
+            except:
+                pass
+            try:
+                driver.find_element(by=By.XPATH ,value='//*[@id="root"]/div/div[1]/article/section[2]/div/kat-tabs/kat-tab[5]/span').click()
+            except:
+                pass
+        
+        driver.find_element(by=By.XPATH ,value='//*[@id="drrGenerateReportButton"]/span').click()
+        try:
+            driver.find_element(by=By.XPATH ,value='//*[@id="drrReportTypeRadioTransaction"]').click()  #//*[@id="drrReportTypeRadioTransaction"]
+        except :
+            pass
+        ele=driver.find_element(by=By.ID ,value='drrMonthlySelect')  #//*[@id="drrMonthlySelect"]
+        time.sleep(0.5)
+        select_ele = Select(ele)
+        time.sleep(0.5)
+        select_ele.select_by_value(date)
+        driver.find_element(by=By.XPATH, value='//*[@id="drrGenerateReportsGenerateButton"]/span/input').click()
+        driver.refresh()
+        flush=True
+        while flush:
+            try:
+                time.sleep(10)
+                driver.find_element(by=By.XPATH, value='//*[@id="0-ddrAction"]/div/a').click()
+            except Exception as err:
+                flush =False 
+        dtime=driver.find_element(by=By.XPATH, value='//*[@id="0-ddrRequestDate"]/div/span').text
+        today = datetime.datetime.today()
+        # if f"{today.year}年{today.month}月{int(today.day)-1}日" == dtime:
+        driver.find_element(by=By.XPATH, value='/html/body/div[1]/div[2]/div[7]/div/div/div/div[5]/div/table/tbody/tr[2]/td[4]/span/span').click()
+        # m.move(500,600)
+        # m.move(1000,800)
+        # # print(66666666666666666,m.position())
+        m.click(500, 550, button=1, n=1)
+        time.sleep(1)
+        kb.type_string(f'{str(dtime)}_{date}_MonthlyTransaction_{country}.csv')
+        m.click(500, 500, button=1, n=1)
+        time.sleep(1)
+        kb.press_key(kb.enter_key)
+        time.sleep(10)
+        # driver.find_element(by=By.XPATH, value='//div[@class="css-93gqc1"][4]//*[@data-testid="KpiCardButton"]').click()
+        # spanlist = driver.find_elements(by=By.XPATH, value='//div[@class="css-1entqxh e1i7w3tc67"]//span[@class="css-in3yi3 e1i7w3tc45"]')
+        # alist = driver.find_elements(by=By.XPATH, value='//div[@class="css-1entqxh e1i7w3tc67"]//a[@data-testid="Link"]')
+        # for index, value in enumerate(spanlist):
+        #     print(value.text + alist[index].text)
 
 
 
@@ -238,11 +335,18 @@ if __name__ == "__main__":
     superBrowser = SuperBrowser()
     browserList=superBrowser.browser_list()
     # superBrowser.start_browser()
-    # superBrowser.startBrowserNew()
-    if browserList :
-        for browserOauth in browserList :
-            try:
-                superBrowser.greg(browserOauth=browserOauth["browserOauth"])
-            except Exception as err:
-                logger.warning(err)
+    # superBrowser.startBrowserNew()202284_MonthlyTransaction_us.csv
+    country_list=["US" , "MX", "CA"]  # BR
+    for c in country_list:
+        country=c;date="6_2022";report_type='日期范围报告'
+        driver=superBrowser.crawler(browserOauth="YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09")
+        driver=superBrowser.select_country(driver,country=country)  # US  MX BR CA
+        superBrowser.get_report(driver,report_type=report_type,country=country,date=date)
+
+    # if browserList :
+    #     for browserOauth in browserList :
+    #         try:
+    #             superBrowser.greg(browserOauth=browserOauth["browserOauth"])
+    #         except Exception as err:
+    #             logger.warning(err)
     # superBrowser.driver_browser()
