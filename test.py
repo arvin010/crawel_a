@@ -364,12 +364,7 @@ class SuperBrowser(object):
                     os.mkdir(target_dir)
             shutil.move(os.path.join(data["default_dir"],file_name),os.path.join(target_dir,file_name))
 
-        # driver.find_element(by=By.XPATH, value='//div[@class="css-93gqc1"][4]//*[@data-testid="KpiCardButton"]').click()
-        # spanlist = driver.find_elements(by=By.XPATH, value='//div[@class="css-1entqxh e1i7w3tc67"]//span[@class="css-in3yi3 e1i7w3tc45"]')
-        # alist = driver.find_elements(by=By.XPATH, value='//div[@class="css-1entqxh e1i7w3tc67"]//a[@data-testid="Link"]')
-        # for index, value in enumerate(spanlist):
-        #     print(value.text + alist[index].text)
-
+        
  
 
 
