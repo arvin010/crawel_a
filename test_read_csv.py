@@ -10,6 +10,6 @@ with open(target_path,  'rt', newline='', encoding='utf-8', errors='ignore') as 
 
     result = list(reader)
     print(result[7])
-    
-    # for row in reader:
-    #     print(row)
+
+    for row in reader:
+        print(row[0])
