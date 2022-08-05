@@ -4662,3 +4662,558 @@ Backtrace:
 2022-08-04 16:40:11  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41843, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
 2022-08-04 16:40:11  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41843, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
 2022-08-04 16:40:11  - root - INFO -bi_crawler:  127.0.0.1:41843
+2022-08-04 17:23:41  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 17:23:41  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 17:23:41  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 17:23:41  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 17:23:41  - root - INFO -bi_crawler:  
+2022-08-04 17:23:41  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-04 17:23:41  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-04 17:23:44  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44451, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:23:44  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44451, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:23:44  - root - INFO -bi_crawler:  127.0.0.1:44451
+2022-08-04 17:24:41  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47989, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:24:46  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47989, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:24:46  - root - INFO -bi_crawler:  127.0.0.1:47989
+2022-08-04 17:35:46  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 17:35:46  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 17:35:46  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 17:35:46  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 17:35:46  - root - ERROR -bi_crawler:  'module' object is not callable
+2022-08-04 17:35:46  - root - INFO -bi_crawler:  
+2022-08-04 17:35:46  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-04 17:35:46  - root - ERROR -bi_crawler:  socket_communication error: 'SuperBrowser' object has no attribute 'tcpCliSock'
+2022-08-04 17:38:22  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 17:38:22  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 17:38:22  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 17:38:22  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 17:38:22  - root - ERROR -bi_crawler:  'module' object is not callable
+2022-08-04 17:38:22  - root - INFO -bi_crawler:  
+2022-08-04 17:38:22  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-04 17:38:22  - root - ERROR -bi_crawler:  socket_communication error: 'SuperBrowser' object has no attribute 'tcpCliSock'
+2022-08-04 17:39:57  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 17:39:57  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 17:39:57  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 17:39:57  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 17:39:57  - root - ERROR -bi_crawler:  'module' object is not callable
+2022-08-04 17:39:57  - root - ERROR -bi_crawler:  socket_communication error: 'SuperBrowser' object has no attribute 'tcpCliSock'
+2022-08-04 17:39:57  - root - INFO -bi_crawler:  启动店铺信息: None
+2022-08-04 17:39:57  - root - INFO -bi_crawler:  None
+2022-08-04 17:40:20  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 17:40:20  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 17:40:20  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 17:40:20  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 17:40:20  - root - ERROR -bi_crawler:  'module' object is not callable
+2022-08-04 17:40:20  - root - ERROR -bi_crawler:  socket_communication error: 'SuperBrowser' object has no attribute 'tcpCliSock'
+2022-08-04 17:40:20  - root - INFO -bi_crawler:  启动店铺信息: None
+2022-08-04 17:40:20  - root - INFO -bi_crawler:  None
+2022-08-04 17:42:26  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 17:42:26  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 17:42:26  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 17:42:26  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 17:42:26  - root - ERROR -bi_crawler:  'module' object is not callable
+2022-08-04 17:42:26  - root - ERROR -bi_crawler:  socket_communication error: 'SuperBrowser' object has no attribute 'tcpCliSock'
+2022-08-04 17:42:26  - root - INFO -bi_crawler:  启动店铺信息: None
+2022-08-04 17:42:26  - root - INFO -bi_crawler:  None
+2022-08-04 17:42:39  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 17:42:39  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 17:42:39  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 17:42:39  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 17:42:46  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42559, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:42:46  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42559, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:42:46  - root - INFO -bi_crawler:  127.0.0.1:42559
+2022-08-04 17:46:37  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 17:46:37  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 17:46:37  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 17:46:37  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 17:46:41  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41601, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:46:41  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41601, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:46:41  - root - INFO -bi_crawler:  127.0.0.1:41601
+2022-08-04 17:48:54  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 17:48:54  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 17:48:54  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 17:48:54  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 17:48:54  - root - ERROR -bi_crawler:  'module' object is not callable
+2022-08-04 17:48:54  - root - ERROR -bi_crawler:  socket_communication error: 'SuperBrowser' object has no attribute 'tcpCliSock'
+2022-08-04 17:48:54  - root - INFO -bi_crawler:  启动店铺信息: None
+2022-08-04 17:48:54  - root - INFO -bi_crawler:  None
+2022-08-04 17:50:57  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 17:50:57  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 17:50:57  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 17:50:57  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 17:51:04  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41082, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:51:04  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41082, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:51:04  - root - INFO -bi_crawler:  127.0.0.1:41082
+2022-08-04 17:52:20  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41445, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:52:20  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41445, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:52:20  - root - INFO -bi_crawler:  127.0.0.1:41445
+2022-08-04 17:53:18  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46077, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:53:18  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46077, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 17:53:18  - root - INFO -bi_crawler:  127.0.0.1:46077
+2022-08-04 18:13:53  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 18:13:53  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 18:13:53  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 18:13:53  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 18:13:56  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49499, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 18:13:56  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49499, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 18:13:56  - root - INFO -bi_crawler:  127.0.0.1:49499
+2022-08-04 18:15:11  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47329, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 18:15:11  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47329, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 18:15:11  - root - INFO -bi_crawler:  127.0.0.1:47329
+2022-08-04 18:15:58  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47415, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 18:15:58  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47415, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 18:15:58  - root - INFO -bi_crawler:  127.0.0.1:47415
+2022-08-04 19:10:29  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 19:10:29  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 19:10:29  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 19:10:29  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 19:10:31  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42709, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:10:31  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42709, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:10:31  - root - INFO -bi_crawler:  127.0.0.1:42709
+2022-08-04 19:11:44  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41428, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:11:44  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41428, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:11:44  - root - INFO -bi_crawler:  127.0.0.1:41428
+2022-08-04 19:12:00  - urllib3.connectionpool - WARNING -connectionpool:  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236EA03B908>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/367592f42c8fe78cbc83eb8462106b5d/element
+2022-08-04 19:12:05  - urllib3.connectionpool - WARNING -connectionpool:  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236EA00D608>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/367592f42c8fe78cbc83eb8462106b5d/element
+2022-08-04 19:12:09  - urllib3.connectionpool - WARNING -connectionpool:  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236EA005B08>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/367592f42c8fe78cbc83eb8462106b5d/element
+2022-08-04 19:20:34  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 19:20:34  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 19:20:34  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 19:20:34  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 19:20:41  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44229, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:20:41  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44229, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:20:41  - root - INFO -bi_crawler:  127.0.0.1:44229
+2022-08-04 19:41:50  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 19:41:50  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 19:41:50  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 19:41:50  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 19:41:52  - root - ERROR -bi_crawler:  [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2022-08-04 19:41:52  - root - ERROR -bi_crawler:  socket_communication error: [WinError 10057] 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+2022-08-04 19:41:52  - root - INFO -bi_crawler:  启动店铺信息: None
+2022-08-04 19:41:52  - root - INFO -bi_crawler:  None
+2022-08-04 19:42:03  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 19:42:03  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 19:42:03  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 19:42:03  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 19:42:11  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41332, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:42:11  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41332, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:42:11  - root - INFO -bi_crawler:  127.0.0.1:41332
+2022-08-04 19:45:23  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 19:45:23  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 19:45:23  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 19:45:23  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 19:45:26  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43184, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:45:26  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43184, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:45:26  - root - INFO -bi_crawler:  127.0.0.1:43184
+2022-08-04 19:48:01  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 19:48:01  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 19:48:01  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 19:48:01  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 19:48:05  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49242, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:48:05  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49242, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:48:05  - root - INFO -bi_crawler:  127.0.0.1:49242
+2022-08-04 19:50:26  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 19:50:26  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 19:50:26  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 19:50:26  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 19:50:29  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47467, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:50:29  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47467, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:50:29  - root - INFO -bi_crawler:  127.0.0.1:47467
+2022-08-04 19:51:27  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 19:51:27  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 19:51:27  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 19:51:27  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 19:51:30  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49552, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:51:30  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49552, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:51:30  - root - INFO -bi_crawler:  127.0.0.1:49552
+2022-08-04 19:56:14  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 19:56:14  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 19:56:14  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 19:56:14  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 19:56:17  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46138, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:56:17  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46138, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:56:17  - root - INFO -bi_crawler:  127.0.0.1:46138
+2022-08-04 19:57:20  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 19:57:20  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 19:57:20  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 19:57:20  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 19:57:22  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47084, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:57:22  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47084, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:57:22  - root - INFO -bi_crawler:  127.0.0.1:47084
+2022-08-04 19:57:59  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 19:57:59  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 19:57:59  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 19:57:59  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 19:58:02  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47066, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:58:02  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47066, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:58:02  - root - INFO -bi_crawler:  127.0.0.1:47066
+2022-08-04 19:59:54  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 19:59:54  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 19:59:54  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 19:59:54  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 19:59:56  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41709, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:59:56  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41709, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 19:59:56  - root - INFO -bi_crawler:  127.0.0.1:41709
+2022-08-04 20:01:12  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43398, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:01:12  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43398, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:01:12  - root - INFO -bi_crawler:  127.0.0.1:43398
+2022-08-04 20:02:11  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46107, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:02:11  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46107, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:02:11  - root - INFO -bi_crawler:  127.0.0.1:46107
+2022-08-04 20:16:32  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 20:16:32  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 20:16:32  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 20:16:32  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 20:16:34  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43033, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:16:34  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43033, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:16:34  - root - INFO -bi_crawler:  127.0.0.1:43033
+2022-08-04 20:17:50  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49019, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:17:50  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49019, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:17:50  - root - INFO -bi_crawler:  127.0.0.1:49019
+2022-08-04 20:27:58  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 20:27:58  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 20:27:58  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 20:27:58  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 20:28:01  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 48925, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:28:01  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 48925, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:28:01  - root - INFO -bi_crawler:  127.0.0.1:48925
+2022-08-04 20:29:14  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 40852, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:29:14  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 40852, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:29:14  - root - INFO -bi_crawler:  127.0.0.1:40852
+2022-08-04 20:30:25  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-04 20:30:25  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-04 20:30:25  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-04 20:30:25  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-04 20:30:32  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47078, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:30:32  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47078, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:30:32  - root - INFO -bi_crawler:  127.0.0.1:47078
+2022-08-04 20:31:56  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41719, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:31:56  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41719, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-04 20:31:56  - root - INFO -bi_crawler:  127.0.0.1:41719
+2022-08-05 09:07:09  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 09:07:09  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 09:07:09  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 09:07:09  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 09:07:17  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42796, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:07:17  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42796, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:07:17  - root - INFO -bi_crawler:  127.0.0.1:42796
+2022-08-05 09:08:37  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46172, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:08:43  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46172, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:08:43  - root - INFO -bi_crawler:  127.0.0.1:46172
+2022-08-05 09:11:50  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 09:11:50  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 09:11:50  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 09:11:50  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 09:11:53  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49449, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:11:53  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49449, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:11:53  - root - INFO -bi_crawler:  127.0.0.1:49449
+2022-08-05 09:13:09  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44276, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:13:09  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44276, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:13:09  - root - INFO -bi_crawler:  127.0.0.1:44276
+2022-08-05 09:14:07  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42542, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:14:07  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42542, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:14:07  - root - INFO -bi_crawler:  127.0.0.1:42542
+2022-08-05 09:15:57  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 09:15:57  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 09:15:57  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 09:15:57  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 09:15:59  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46239, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:15:59  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46239, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:15:59  - root - INFO -bi_crawler:  127.0.0.1:46239
+2022-08-05 09:19:28  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 09:19:28  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 09:19:28  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 09:19:28  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 09:19:32  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41674, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:19:32  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41674, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:19:32  - root - INFO -bi_crawler:  127.0.0.1:41674
+2022-08-05 09:20:50  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44665, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:20:50  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44665, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:20:50  - root - INFO -bi_crawler:  127.0.0.1:44665
+2022-08-05 09:22:21  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 09:22:21  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 09:22:21  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 09:22:21  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 09:22:23  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44180, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:22:23  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44180, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:22:23  - root - INFO -bi_crawler:  127.0.0.1:44180
+2022-08-05 09:23:40  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 40881, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:23:40  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 40881, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:23:40  - root - INFO -bi_crawler:  127.0.0.1:40881
+2022-08-05 09:31:44  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 09:31:44  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 09:31:44  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 09:31:44  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 09:31:47  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41416, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:31:47  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 41416, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:31:47  - root - INFO -bi_crawler:  127.0.0.1:41416
+2022-08-05 09:33:02  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 40598, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:33:02  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 40598, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 09:33:02  - root - INFO -bi_crawler:  127.0.0.1:40598
+2022-08-05 11:06:19  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:06:19  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:06:19  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:06:19  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:06:19  - root - INFO -bi_crawler:  
+2022-08-05 11:06:19  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:06:19  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:06:47  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:06:47  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:06:47  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:06:47  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:06:47  - root - INFO -bi_crawler:  
+2022-08-05 11:06:47  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:06:47  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:06:51  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 40832, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:06:51  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 40832, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:06:51  - root - INFO -bi_crawler:  127.0.0.1:40832
+2022-08-05 11:08:56  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:08:56  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:08:56  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:08:56  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:08:56  - root - INFO -bi_crawler:  
+2022-08-05 11:08:56  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:08:56  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:08:59  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46014, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:08:59  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46014, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:08:59  - root - INFO -bi_crawler:  127.0.0.1:46014
+2022-08-05 11:09:51  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:09:51  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:09:51  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:09:51  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:09:51  - root - INFO -bi_crawler:  
+2022-08-05 11:09:51  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:09:51  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:09:53  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46521, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:09:53  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46521, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:09:53  - root - INFO -bi_crawler:  127.0.0.1:46521
+2022-08-05 11:11:07  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:11:07  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:11:07  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:11:07  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:11:07  - root - INFO -bi_crawler:  
+2022-08-05 11:11:07  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:11:07  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:11:10  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47673, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:11:10  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47673, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:11:10  - root - INFO -bi_crawler:  127.0.0.1:47673
+2022-08-05 11:14:27  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:14:27  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:14:27  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:14:27  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:14:27  - root - INFO -bi_crawler:  
+2022-08-05 11:14:27  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:14:27  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:14:31  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43612, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:14:31  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43612, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:14:31  - root - INFO -bi_crawler:  127.0.0.1:43612
+2022-08-05 11:16:57  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:16:57  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:16:57  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:16:57  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:16:57  - root - INFO -bi_crawler:  
+2022-08-05 11:16:57  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:16:57  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:17:00  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 48403, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:17:00  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 48403, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:17:00  - root - INFO -bi_crawler:  127.0.0.1:48403
+2022-08-05 11:19:10  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:19:10  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:19:10  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:19:10  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:19:10  - root - INFO -bi_crawler:  
+2022-08-05 11:19:10  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:19:10  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:19:13  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 40827, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:19:13  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 40827, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:19:13  - root - INFO -bi_crawler:  127.0.0.1:40827
+2022-08-05 11:22:11  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:22:11  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:22:11  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:22:11  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:22:11  - root - INFO -bi_crawler:  
+2022-08-05 11:22:11  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:22:12  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:22:14  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47222, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:22:14  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47222, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:22:14  - root - INFO -bi_crawler:  127.0.0.1:47222
+2022-08-05 11:26:55  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:26:55  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:26:55  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:26:55  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:26:55  - root - INFO -bi_crawler:  
+2022-08-05 11:26:55  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:26:55  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:26:58  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49025, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:26:58  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49025, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:26:58  - root - INFO -bi_crawler:  127.0.0.1:49025
+2022-08-05 11:27:14  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:27:14  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:27:14  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:27:14  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:27:14  - root - INFO -bi_crawler:  
+2022-08-05 11:27:14  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:27:14  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:27:17  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44342, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:27:17  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44342, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:27:17  - root - INFO -bi_crawler:  127.0.0.1:44342
+2022-08-05 11:30:06  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:30:06  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:30:06  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:30:06  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:30:06  - root - INFO -bi_crawler:  
+2022-08-05 11:30:06  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:30:06  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:30:09  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49067, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:30:09  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49067, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:30:09  - root - INFO -bi_crawler:  127.0.0.1:49067
+2022-08-05 11:32:48  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:32:48  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:32:48  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:32:48  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:32:48  - root - INFO -bi_crawler:  
+2022-08-05 11:32:48  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:32:48  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:32:51  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42399, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:32:51  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42399, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:32:51  - root - INFO -bi_crawler:  127.0.0.1:42399
+2022-08-05 11:36:15  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:36:15  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:36:15  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:36:15  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:36:15  - root - INFO -bi_crawler:  
+2022-08-05 11:36:15  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:36:15  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:36:18  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44209, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:36:18  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44209, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:36:18  - root - INFO -bi_crawler:  127.0.0.1:44209
+2022-08-05 11:38:42  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:38:42  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:38:42  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:38:42  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:38:42  - root - INFO -bi_crawler:  
+2022-08-05 11:38:42  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:38:43  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:38:46  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 48279, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:38:46  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 48279, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:38:46  - root - INFO -bi_crawler:  127.0.0.1:48279
+2022-08-05 11:41:51  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:41:51  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:41:51  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:41:51  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:41:51  - root - INFO -bi_crawler:  
+2022-08-05 11:41:51  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:41:51  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:41:55  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 48276, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:41:55  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 48276, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:41:55  - root - INFO -bi_crawler:  127.0.0.1:48276
+2022-08-05 11:47:35  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:47:35  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:47:35  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:47:35  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:47:35  - root - INFO -bi_crawler:  
+2022-08-05 11:47:35  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:47:35  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:47:38  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49256, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:47:38  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 49256, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:47:38  - root - INFO -bi_crawler:  127.0.0.1:49256
+2022-08-05 11:48:02  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:48:02  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:48:02  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:48:02  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:48:02  - root - INFO -bi_crawler:  
+2022-08-05 11:48:02  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:48:02  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:48:05  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43657, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:48:05  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43657, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:48:05  - root - INFO -bi_crawler:  127.0.0.1:43657
+2022-08-05 11:49:45  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43520, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:49:45  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43520, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:49:45  - root - INFO -bi_crawler:  127.0.0.1:43520
+2022-08-05 11:50:01  - urllib3.connectionpool - WARNING -connectionpool:  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017823475BC8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/612a491acdae7e0b4142e4be75211b29/element
+2022-08-05 11:50:05  - urllib3.connectionpool - WARNING -connectionpool:  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001782348FEC8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/612a491acdae7e0b4142e4be75211b29/element
+2022-08-05 11:50:09  - urllib3.connectionpool - WARNING -connectionpool:  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017823492148>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/612a491acdae7e0b4142e4be75211b29/element
+2022-08-05 11:50:17  - urllib3.connectionpool - WARNING -connectionpool:  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017823492FC8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/612a491acdae7e0b4142e4be75211b29/element
+2022-08-05 11:50:21  - urllib3.connectionpool - WARNING -connectionpool:  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001782349C688>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/612a491acdae7e0b4142e4be75211b29/element
+2022-08-05 11:50:25  - urllib3.connectionpool - WARNING -connectionpool:  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001782349CD48>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/612a491acdae7e0b4142e4be75211b29/element
+2022-08-05 11:50:38  - urllib3.connectionpool - WARNING -connectionpool:  Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017823492848>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/612a491acdae7e0b4142e4be75211b29/element
+2022-08-05 11:50:42  - urllib3.connectionpool - WARNING -connectionpool:  Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017823461908>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/612a491acdae7e0b4142e4be75211b29/element
+2022-08-05 11:50:46  - urllib3.connectionpool - WARNING -connectionpool:  Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000178234CDE48>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/612a491acdae7e0b4142e4be75211b29/element
+2022-08-05 11:54:16  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 11:54:16  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 11:54:16  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 11:54:16  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 11:54:17  - root - INFO -bi_crawler:  
+2022-08-05 11:54:17  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 11:54:18  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 11:54:24  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47647, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:54:24  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47647, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:54:24  - root - INFO -bi_crawler:  127.0.0.1:47647
+2022-08-05 11:55:57  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44628, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:55:57  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44628, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:55:57  - root - INFO -bi_crawler:  127.0.0.1:44628
+2022-08-05 11:56:56  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 45958, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:56:56  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 45958, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 11:56:56  - root - INFO -bi_crawler:  127.0.0.1:45958
+2022-08-05 12:04:20  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 12:04:20  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 12:04:20  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 12:04:20  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 12:04:20  - root - INFO -bi_crawler:  
+2022-08-05 12:04:20  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 12:04:20  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 12:04:22  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 45034, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 12:04:22  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 45034, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 12:04:22  - root - INFO -bi_crawler:  127.0.0.1:45034
+2022-08-05 12:05:46  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47241, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 12:05:46  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47241, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 12:05:46  - root - INFO -bi_crawler:  127.0.0.1:47241
+2022-08-05 12:18:15  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 12:18:15  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 12:18:15  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 12:18:15  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 12:18:15  - root - INFO -bi_crawler:  
+2022-08-05 12:18:15  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 12:18:15  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 12:18:18  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43845, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 12:18:18  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 43845, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 12:18:18  - root - INFO -bi_crawler:  127.0.0.1:43845
+2022-08-05 12:24:18  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 12:24:18  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 12:24:18  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 12:24:18  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 12:24:18  - root - INFO -bi_crawler:  
+2022-08-05 12:24:18  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 12:24:18  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 12:24:21  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47930, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 12:24:21  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 47930, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 12:24:21  - root - INFO -bi_crawler:  127.0.0.1:47930
+2022-08-05 12:24:43  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 12:24:43  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 12:24:43  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 12:24:43  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 12:24:43  - root - INFO -bi_crawler:  
+2022-08-05 12:24:43  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 12:24:43  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 12:24:45  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44799, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 12:24:45  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 44799, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 12:24:45  - root - INFO -bi_crawler:  127.0.0.1:44799
+2022-08-05 12:26:08  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46312, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 12:26:08  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46312, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 12:26:08  - root - INFO -bi_crawler:  127.0.0.1:46312
+2022-08-05 14:13:14  - root - INFO -bi_crawler:  business_type: 123456
+2022-08-05 14:13:14  - root - INFO -bi_crawler:  socket > host: 127.0.0.1, port: 8888
+2022-08-05 14:13:14  - root - INFO -bi_crawler:  初始化Socket连接...
+2022-08-05 14:13:14  - root - INFO -bi_crawler:  启动紫鸟浏览器......
+2022-08-05 14:13:14  - root - INFO -bi_crawler:  
+2022-08-05 14:13:14  - root - INFO -bi_crawler:  获取店铺列表.
+2022-08-05 14:13:14  - root - INFO -bi_crawler:  目前店铺总数: 6, 正在记录店铺信息...,请稍等.
+2022-08-05 14:13:16  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42117, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 14:13:16  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42117, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 14:13:16  - root - INFO -bi_crawler:  127.0.0.1:42117
+2022-08-05 14:14:49  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42859, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 14:14:49  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 42859, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 14:14:49  - root - INFO -bi_crawler:  127.0.0.1:42859
+2022-08-05 14:15:44  - root - INFO -bi_crawler:  启动店铺信息: {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46793, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 14:15:44  - root - INFO -bi_crawler:  {'statusCode': 0, 'browserOauth': 'YTNFa0ppZlRxQ0FXOHlSRjNRdXdsZz09', 'duplicate': 0, 'debuggingPort': 46793, 'launcherPage': 'https://sellercentral.amazon.com', 'browserPath': 'C:\\Users\\administered\\SuperBrowser\\5.180.1.20\\Core\\Chromium\\superbrowser.exe', 'downloadPath': 'C:\\Users\\administered\\Desktop\\Super Browser\\易仓AM02-美国', 'runMode': '1', 'action': 'startBrowser', 'requestId': '0123456789'}
+2022-08-05 14:15:44  - root - INFO -bi_crawler:  127.0.0.1:46793
