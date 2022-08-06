@@ -364,7 +364,12 @@ class SuperBrowser(object):
                     os.mkdir(target_dir)
             shutil.move(os.path.join(data["default_dir"],file_name),os.path.join(target_dir,file_name))
 
-        
+        # driver.find_element(by=By.XPATH, value='//div[@class="css-93gqc1"][4]//*[@data-testid="KpiCardButton"]').click()
+        # spanlist = driver.find_elements(by=By.XPATH, value='//div[@class="css-1entqxh e1i7w3tc67"]//span[@class="css-in3yi3 e1i7w3tc45"]')
+        # alist = driver.find_elements(by=By.XPATH, value='//div[@class="css-1entqxh e1i7w3tc67"]//a[@data-testid="Link"]')
+        # for index, value in enumerate(spanlist):
+        #     print(value.text + alist[index].text)
+
  
 
 
@@ -379,7 +384,7 @@ def main():
         "date_type":2,  # 1 月份  2 自定义
         "date_end":"2022-8-3",
         "date_start":"2022-8-01",
-        "report_type":report_dir[report_type],    # 1 "日期范围报告"
+        "report_type":report_dir[report_type],    # 1 "日期范围报告"1
         "save_dir":r"d:\work",
         "default_dir":r"C:\Users\administered\Desktop\Super Browser\易仓AM02-美国",
         "country":None,
